@@ -50,3 +50,5 @@ for i in range(20):
 print("from bottom")
 for i in range(1,20):
     print(hdds[-i])
+
+input()
